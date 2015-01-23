@@ -1,0 +1,30 @@
+{
+  "name": "memopatch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "hanagejet",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.10",
+    "gulp-clean": "^0.3.0",
+    "gulp-iconfont": "^1.0.0",
+    "gulp-iconfont-css": "0.0.9",
+    "gulp-load-plugins": "^0.5.2",
+    "gulp-plumber": "^0.6.3",
+    "gulp-svgmin": "^1.1.0",
+    "gulp-util": "^2.2.17",
+    "lodash": "^2.4.1"
+  },
+  "dependencies": {
+    "del": "^0.1.1"
+  }
+}
