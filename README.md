@@ -1,2 +1,2 @@
-# icon-font-memopatch
+# icon-font
 アイコンフォントのサンプルファイル
